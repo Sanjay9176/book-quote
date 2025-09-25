@@ -80,13 +80,6 @@ npm run deploy
 
 <img width="1919" height="747" alt="4" src="https://github.com/user-attachments/assets/a58d3582-c7a9-4f80-aaff-194e8a36795c" />
 
-## Improvements
-
-1. **Like & Share Buttons** – Extend interactivity by allowing users to like or share quotes.
-2. **Search & Filter** – Add functionality to filter quotes by author, genre, or book.
-3. **Offline Support** – Implement service workers for offline usage.
-4. **Backend Integration** – Connect to a backend or database for dynamic quote management.
-5. **Accessibility Enhancements** – Improve ARIA roles and keyboard navigation.
 
 # [Sanjay Kumar Purohit]
 
