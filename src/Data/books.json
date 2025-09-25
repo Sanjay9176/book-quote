@@ -1,0 +1,56 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "quote": "You never really understand a person until you consider things from his point of view.",
+    "image": "https://images.pexels.com/photos/2041535/pexels-photo-2041535.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "quote": "Big Brother is Watching You.",
+    "image": "https://m.media-amazon.com/images/I/71kxa1-0mfL.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "quote": "It is a truth universally acknowledged.",
+    "image": "https://images.pexels.com/photos/261949/pexels-photo-261949.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "quote": "So we beat on, boats against the current.",
+    "image": "https://m.media-amazon.com/images/I/81af+MCATTL.jpg"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "quote": "When you want something, all the universe conspires in helping you to achieve it.",
+    "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "quote": "Call me Ishmael.",
+    "image": "https://m.media-amazon.com/images/I/81OthjkJBuL.jpg"
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "quote": "If everyone fought for their own convictions, there would be no war.",
+    "image": "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "quote": "Don't ever tell anybody anything.",
+    "image": "https://m.media-amazon.com/images/I/81OthjkJBuL.jpg"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "quote": "In a hole in the ground there lived a hobbit.",
+    "image": "https://m.media-amazon.com/images/I/91b0C2YNSrL.jpg"
+  }
+]
