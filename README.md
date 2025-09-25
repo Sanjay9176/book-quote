@@ -68,7 +68,7 @@ npm run deploy
 ```
 
 ✅ **Your site will be live at:**
-👉 [https://Sanjay9176.github.io/book-quote-shorts/](https://Sanjay9176.github.io/book-quote-shorts/)
+👉 <https://sanjay9176.github.io/book-quote/>
 
 ## Preview
 
