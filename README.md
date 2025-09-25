@@ -68,5 +68,12 @@ npm run deploy
 👉 https://Sanjay9176.github.io/book-quote-shorts/
 
 📸 Preview
+<img width="1819" height="948" alt="1" src="https://github.com/user-attachments/assets/1d261510-cfc1-4f52-aaff-1a506da39107" />
 
-(Add screenshots or demo GIF here if available for better presentation)
+<img width="1886" height="1026" alt="2" src="https://github.com/user-attachments/assets/ed578d1a-61fa-4df8-9b03-bbff2890ce02" />
+
+<img width="1837" height="988" alt="3" src="https://github.com/user-attachments/assets/542b5976-b0d7-4e47-a68b-f4e5bfc4fd96" />
+
+<img width="1919" height="747" alt="4" src="https://github.com/user-attachments/assets/a58d3582-c7a9-4f80-aaff-194e8a36795c" />
+
+
